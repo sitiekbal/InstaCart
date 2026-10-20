@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120" role="img" aria-labelledby="title desc">
+  <title id="title">Market Analytics</title>
+  <desc id="desc">A navy grocery basket holding colorful produce with a rising data line.</desc>
+  <rect x="8" y="8" width="104" height="104" rx="25" fill="#18243A"/>
+  <path d="m31 47 8 47h42l8-47H31Z" fill="#00BFA6"/>
+  <path d="m40 48 9-21m30 21L70 27" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M43 57h34" stroke="#18243A" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="51" cy="48" r="9" fill="#FF8A3D"/>
+  <circle cx="70" cy="43" r="10" fill="#FFD447"/>
+  <path d="M46 82 57 71l9 5 14-16" fill="none" stroke="#18243A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="46" cy="82" r="3" fill="#fff"/>
+  <circle cx="57" cy="71" r="3" fill="#fff"/>
+  <circle cx="66" cy="76" r="3" fill="#fff"/>
+  <circle cx="80" cy="60" r="3" fill="#fff"/>
+  <text x="132" y="58" fill="#18243A" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="1">MARKET</text>
+  <text x="132" y="91" fill="#00A98F" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="4">ANALYTICS</text>
+</svg>
